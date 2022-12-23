@@ -9,4 +9,4 @@ hello powernode hello git
 hello powernode hello git
 hello powernode hello git
 hello powernode hello git
-hello powernode hello git
+hello powernode hello git  hot-fix test
